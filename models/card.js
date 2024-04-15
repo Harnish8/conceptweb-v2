@@ -3,7 +3,8 @@ import mongoose, { Schema } from "mongoose";
 const cardSchema = new Schema(
     {
         cardtitle: String,
-        carddescription: String
+        carddescription: String,
+        cardimg: String
     }, {
         timestamps: true,
     }

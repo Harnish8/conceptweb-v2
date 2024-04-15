@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="1841.11 31.4859 47.9347 47.9347" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Close" vectornator:layerName="Close">
+<path d="M1841.11 38.1723C1841.11 34.4795 1844.1 31.4859 1847.79 31.4859L1882.36 31.4859C1886.05 31.4859 1889.04 34.4795 1889.04 38.1723L1889.04 72.7342C1889.04 76.427 1886.05 79.4206 1882.36 79.4206L1847.79 79.4206C1844.1 79.4206 1841.11 76.427 1841.11 72.7342L1841.11 38.1723Z" fill="#ebeeef" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle 9"/>
+<path d="M1877.39 44.0102L1854.27 67.5987" fill="none" opacity="1" stroke="#595958" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.23302" vectornator:layerName="Line 1"/>
+<path d="M1854.62 43.6711L1877.03 67.9377" fill="none" opacity="1" stroke="#595958" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.23302" vectornator:layerName="Line 2"/>
+</g>
+</svg>

@@ -16,7 +16,7 @@ function Page() {
         
           <Sidefilter/>
           <Actcoursol/>
-          <CardsList/>
+          {/* <CardsList/> */}
 
 
       </div>
